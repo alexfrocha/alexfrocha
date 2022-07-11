@@ -4,7 +4,8 @@
 const me = {
     pronouns: "he" | "him",
     askMeAbout: ["web dev", "music", "coffee"],
-    technologies: [React, Sass, TypeScript, HTML5, CSS3, JavaScript]
+    defaultTechnologies: [HTML5, CSS3, JavaScript],
+    frameworks: undefined
 };
 ```
 <hr>
