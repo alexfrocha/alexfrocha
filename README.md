@@ -1,7 +1,7 @@
 <hr>
 
 ```js
-const me = {
+let me = {
     pronouns: "he" | "him",
     askMeAbout: ["web dev", "music", "coffee"],
     defaultTechnologies: [HTML5, CSS3, JavaScript],
