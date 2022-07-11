@@ -1,11 +1,10 @@
 <hr>
 
 ```js
-let me = {
-    pronouns: "he" | "him",
+{
+    gender: "male",
     askMeAbout: ["web dev", "music", "coffee"],
-    defaultTechnologies: [HTML5, CSS3, JavaScript],
-    frameworks: undefined
-};
+    technologies: [HTML5, CSS3, JavaScript]
+}
 ```
 <hr>
