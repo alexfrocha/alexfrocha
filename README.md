@@ -31,4 +31,5 @@
 
 ### Estudando neste momento:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0031&height=120&section=footer"/>
