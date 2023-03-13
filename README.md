@@ -22,10 +22,6 @@
 ![Redux](https://img.shields.io/badge/redux-%231C1B1B.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Chakra](https://img.shields.io/badge/chakra-%231C1B1B.svg?style=for-the-badge&logo=chakraui&logoColor=white)
  
-![HTML5](https://img.shields.io/badge/html5-%231C1B1B.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231C1B1B.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%231C1B1B.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
- 
  
 ### Ferramentas:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-1C1B1B.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
