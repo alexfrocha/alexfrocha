@@ -6,9 +6,9 @@
 <br>
 <br><br>
 
-<div align="center">  
+<!-- <div align="center">  
 <a href="https://www.instagram.com/ports.alex/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%231C1B1B?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
+</div>  -->
  
 <br>
 
